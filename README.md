@@ -52,7 +52,7 @@ browse - to get all web searching commands 🔓.
 meme - to get a meme 😂.
 reddit - to get something from reddit 💊.
 manymeme- to get many memes 🤡.
-mreddit - to fetch many nsfw things from reddit 🌈.
+mreddit - to fetch many things from reddit 🌈.
 quote - to get an anime quote 👀.
 mquote - to get many anime quotes 🧓.
 ```
