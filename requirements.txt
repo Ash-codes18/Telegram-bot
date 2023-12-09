@@ -1,0 +1,14 @@
+pyrogram==2.0.106
+anime-api==1.0.1
+bardapi==0.1.38
+bs4==0.0.1
+spotipy==2.23.0 
+tpblite==0.8.0
+asyncio==3.4.3
+redgifs==1.7.2
+yt-dlp==2023.10.13
+requests==2.31.0
+tgcrypto==1.2.5
+gitpython==3.1.40
+pyYify==1.9.2
+spotdl==4.2.1
